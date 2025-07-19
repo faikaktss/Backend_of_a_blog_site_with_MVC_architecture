@@ -1,6 +1,7 @@
 # Category Management REST API
 
 ## 📦 Proje Hakkında
+.
 
 Bu proje, Node.js ve Express.js kullanılarak geliştirilmiş basit bir RESTful API'dir. Amaç, bir uygulamanın kategori yönetimi ihtiyaçlarını karşılamaktır. 
 
